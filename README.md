@@ -1,4 +1,6 @@
-# PreloadingStrategies
+# Angular Preloading Strategies
+
+[Custom Preloading and Lazy Loading Strategies with Angular](https://coryrylan.com/blog/custom-preloading-and-lazy-loading-strategies-with-angular)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
